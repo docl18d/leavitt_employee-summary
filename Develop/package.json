@@ -1,0 +1,22 @@
+{
+  "name": "leavitt_employee_summary",
+  "version": "1.0.0",
+  "description": "Employee Roster of Basic Information",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "docl18d"
+  },
+  "keywords": [
+    "employee"
+  ],
+  "author": "Adrein Leavitt",
+  "license": "ISC"
+}
