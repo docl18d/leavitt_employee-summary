@@ -2,7 +2,7 @@
   "name": "leavitt_employee-summary",
   "version": "1.0.0",
   "description": "Employee CRM app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,8 @@
   "homepage": "https://github.com/docl18d/leavitt_employee-summary#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^7.0.0",
-    "mysql": "^2.17.1"
+    "inquirer": "file:node_modules/inquirer",
+    "mysql": "^2.17.1",
+    "node": "^15.3.0"
   }
 }
