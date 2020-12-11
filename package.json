@@ -1,0 +1,24 @@
+{
+  "name": "leavitt_employee-summary",
+  "version": "1.0.0",
+  "description": "Employee CRM app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docl18d/leavitt_employee-summary.git"
+  },
+  "author": "Adrein Leavitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docl18d/leavitt_employee-summary/issues"
+  },
+  "homepage": "https://github.com/docl18d/leavitt_employee-summary#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
